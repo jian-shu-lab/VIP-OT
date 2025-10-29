@@ -1,0 +1,13 @@
+# Conda environment configuration for the VIP-OT project
+
+name: vip-ot
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - umap-learn
+  - pot
