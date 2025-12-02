@@ -79,6 +79,6 @@ Here, we provide a simple example to demonstrate the core functionality of VIP-O
 ├── figures/ # Generated figures
 ├── results/ # Intermediate results
 ├── environment.yml # Conda environment file
-├── LICENSE # MIT License
+├── LICENSE # CC BY-NC 4.0 License
 └── README.md # Project documentation
 ```
