@@ -394,7 +394,6 @@ results/combination/
 | `downstream_analysis.py velocity` | Dose-indexed Spectral Velocity |
 | `downstream_analysis.py combination` | Path-dependent drug-combination analysis |
 
-The scripts provide representative implementations of the main computational analyses. They are not intended as a complete raw-data-to-figure reproduction pipeline.
 
 ---
 
@@ -406,6 +405,5 @@ The scripts provide representative implementations of the main computational ana
 - Sinkhorn benchmarking uses a default regularization value of `0.05`.
 - Randomized analyses expose a `random_state` argument.
 - Large cost matrices and coupling matrices are not saved by default.
-- Demonstration datasets may be smaller than the complete datasets used in the manuscript.
 
 ---
